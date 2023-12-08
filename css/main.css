@@ -1,0 +1,156 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+.container{
+   text-align: center;
+   align-items: center;
+}
+
+.centralizar{
+   text-align: center;
+   margin-top: 5%;
+   margin-bottom: 5%;
+}
+
+.imagem1{
+   text-align: center;
+   width: 100%;
+   height: 480px;
+}
+
+.navbar-brand{
+   color: white;
+}
+
+.azull{
+   background-color: #6495ed;
+}
+
+
+.user-avatar{
+   width: 50%;
+}
+
+footer{
+   background-color: #6495ed;  
+   padding: 40px;
+   text-align: center;
+   margin-top: 7%;
+   align-items: center;
+}
+
+footer p{
+   color: white;
+   margin-top: 1%;
+}
+
+.container-banner{
+   margin-left: 5%;
+}
+
+.container-banner h1{
+   color: white;
+}
+
+.container-banner p{
+   color: white;
+}
+
+.logo{
+   margin-bottom: 1%;
+}
+
+.container-contato {
+   width:750px;
+   margin-bottom: 10%;
+   margin-top: 4%;
+   margin: 30px auto;
+   padding: 20px;
+   background-color: #fff;
+   box-shadow: 0 0 10px rgba(100, 149, 237, 0.5); 
+}
+
+
+.form-contato {
+   display: flex;
+   flex-direction: column;
+}
+
+.label-contato {
+   margin-top: 15px;
+   color: cornflowerblue;
+}
+
+.input-contato,
+.textarea-contato {
+   padding: 13px;
+   margin-bottom: 15px;
+   border: 1px solid cornflowerblue;
+}
+
+.bnt-sobre {
+   margin-top: 4%;
+}
+
+.botao-carrinho {
+   background-color: rgb(56, 133, 70);
+   color: white;
+   border-radius: 10px;
+   padding: 10px 20px;
+   border: none;
+   width: 30%;
+   text-align: center;
+   margin-left: 70%;
+}
+
+.botao-carrinho:hover {
+   background-color: rgb(100, 237, 125);
+}
+
+.imagem2{
+   text-align: center;
+   align-items: center;
+   width: 70%;
+   margin-top: 5%;
+   margin-bottom: 5%;
+}
+
+.row{
+   margin-top: 2%;
+   margin-bottom: 2%;
+}
+
+.botao-tabela {
+   border-radius: 10px;
+   padding: 10px 20px;
+   border: none;
+   text-align: center;
+   margin: 2%;
+}
+
+.tabela{
+   width: 70%;
+   text-align: center;
+   align-items: center;
+}
+
+.titulo{
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   margin-top: 2%;
+   margin-bottom: 3%;
+   font-size: 2em;
+}
+
+.titulo-p{
+   font-size: 1.3em;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   margin-top: 2%;
+   margin-bottom: 3%;
+}
+
+p{
+   font-size: 1.2em;
+}
+
